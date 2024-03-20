@@ -22,6 +22,9 @@ You can check its live demo here:
 
 > You may require authorization to access the live dashboard.
 
+## Screenshot
+![App Screenshot](screenshot/pancake-prediction.png "App Screenshot")
+
 ___
 ## GitHub Repo
 This project is open-source, and it is available on GitHub at [https://github.com/kavehbc/pancake-prediction](https://github.com/kavehbc/pancake-prediction).
